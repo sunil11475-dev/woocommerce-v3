@@ -1,5 +1,5 @@
 {
-    "name": "sunil11475-dev\/WooCommerceV3",
+    "name": "sunil11475-dev\/woocommercev3",
     "license": "unlicense",
     "description": "WooCommerce V3 API project",
     "keywords": [
@@ -9,7 +9,7 @@
         "onbuyapi",
         "api"
     ],
-    "homepage": "https:\/\/github.com/sunil11475-dev\/WooCommerceV3",
+    "homepage": "https:\/\/github.com/sunil11475-dev\/woocommercev3",
     "license": "unlicense",
     "authors": [
         {
